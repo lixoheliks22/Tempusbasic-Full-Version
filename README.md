@@ -237,3 +237,6 @@ This repository serves as the official landing page for TempusBasic. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of TempusBasic today!**
+
+---
+**Last updated:** 2026-09-10 18:53:12 UTC
